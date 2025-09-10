@@ -58,7 +58,7 @@ Building scalable data infrastructure that transforms raw data into strategic in
 <a href="https://linkedin.com/in/saikiran-reddy-kondreddygari">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/saikiranreddy">
+<a href="https://github.com/Sai18Kiran">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=000000" />
 </a>&nbsp;&nbsp;
 <a href="#">
