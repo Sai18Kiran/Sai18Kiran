@@ -1186,15 +1186,65 @@ interests:
 
 ---
 
-### **📈 GITHUB ACTIVITY**
+### **💼 CAREER IMPACT METRICS**
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SaiKiranReddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=1e3a8a&text_color=FFF" width="100%"/>
+<td width="33%" align="center">
+
+**💰 TOTAL VALUE**
+
+<img src="https://img.shields.io/badge/Financial_Impact-$5.2M+-success?style=for-the-badge&labelColor=1e3a8a"/>
+
+Operational Savings & Cost Optimization
+
 </td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKiranReddy&theme=tokyonight&hide_border=true&background=0D1117&stroke=3b82f6&ring=1e3a8a&fire=3b82f6&currStreakLabel=FFF" width="100%"/>
+<td width="33%" align="center">
+
+**📊 FORECAST PRECISION**
+
+<img src="https://img.shields.io/badge/Accuracy-+11%25_YoY-3b82f6?style=for-the-badge&labelColor=1e3a8a"/>
+
+Improved Financial Predictability
+
+</td>
+<td width="33%" align="center">
+
+**💼 CAPITAL DECISIONS**
+
+<img src="https://img.shields.io/badge/Influenced-$17M+-blueviolet?style=for-the-badge&labelColor=1e3a8a"/>
+
+Strategic Investment Analysis
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**📈 PROFITABILITY**
+
+<img src="https://img.shields.io/badge/EBIT_Growth-+9%25-4ECDC4?style=for-the-badge&labelColor=1e3a8a"/>
+
+Enhanced Business Performance
+
+</td>
+<td width="33%" align="center">
+
+**⚡ EFFICIENCY**
+
+<img src="https://img.shields.io/badge/Process_Time--3_Days-FF6B6B?style=for-the-badge&labelColor=1e3a8a"/>
+
+Streamlined Financial Close
+
+</td>
+<td width="33%" align="center">
+
+**🎯 INVENTORY OPTIMIZATION**
+
+<img src="https://img.shields.io/badge/Stock_Reduction--14%25-FFD700?style=for-the-badge&labelColor=1e3a8a"/>
+
+Supply Chain Excellence
+
 </td>
 </tr>
 </table>
