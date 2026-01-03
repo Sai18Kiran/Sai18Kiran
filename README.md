@@ -5,35 +5,35 @@
    ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝
    ██║   ██║  ██║███████╗    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗
    ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
-                                  O F   D A T A   E N G I N E E R I N G
+                                O F   F I N A N C I A L   A N A L Y S I S
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A90E2,100:5C7CFA&height=300&section=header&text=SAI%20KIRAN%20REDDY&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ENGINEER%20◉%20CLOUD%20ARCHITECT%20◉%20BIG%20DATA%20SPECIALIST%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A90E2,100:5C7CFA&height=300&section=header&text=SAI%20KIRAN%20REDDY&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20FINANCIAL%20ANALYST%20◉%20FP%26A%20SPECIALIST%20◉%20VALUATION%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
 <br/>
 
 <!-- Animated Code Terminal -->
 
 ```bash
-┌─[saikiran@data-pipeline]─[~/enterprise-systems/cloud-analytics]
+┌─[saikiran@financial-analytics]─[~/enterprise-systems/fp-and-a]
 └──╼ $ whoami
-Data Engineer • Cloud Architect • Big Data Specialist | Webster University MDA
+Financial Analyst • FP&A Specialist • Valuation Expert | Webster University MDA
 
-┌─[saikiran@data-pipeline]─[~/achievements]
+┌─[saikiran@financial-analytics]─[~/achievements]
 └──╼ $ ls -la
 total 5000
-drwxr-xr-x  4 years of enterprise data engineering
-drwxr-xr-x  12 ETL pipelines built and optimized
-drwxr-xr-x  5TB+ daily data processing capability
--rw-r--r--  42% query performance improvements
--rw-r--r--  73% pipeline reliability enhancement
--rw-r--r--  32% data storage cost reduction
+drwxr-xr-x  4 years of enterprise financial analysis
+drwxr-xr-x  $27M+ capital allocation decisions influenced
+drwxr-xr-x  $5.2M operational savings identified
+-rw-r--r--  11% forecast accuracy improvement
+-rw-r--r--  10% enhanced cash-flow predictability
+-rw-r--r--  9% EBIT growth through analytics
 
-┌─[saikiran@data-pipeline]─[~/current-mission]
+┌─[saikiran@financial-analytics]─[~/current-mission]
 └──╼ $ cat vision.txt
-Building scalable data infrastructure that transforms raw data into strategic insights 📊
+Building robust financial models that transform data into strategic business decisions 📊
 ```
 
 <br/>
@@ -42,10 +42,10 @@ Building scalable data infrastructure that transforms raw data into strategic in
 <table align="center">
 <tr>
 <td align="center" width="200px">
-<img src="https://img.shields.io/badge/📱_+1_(917)_704--9894-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
+<img src="https://img.shields.io/badge/📱_+1_(614)_699--0768-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
 </td>
 <td align="center" width="300px">
-<img src="https://img.shields.io/badge/📧_kondreddygarisaikiranreddy18@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
+<img src="https://img.shields.io/badge/📧_saikiranr826@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
 </td>
 <td align="center" width="200px">
 <img src="https://img.shields.io/badge/📍_Saint_Louis,_MO-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
@@ -65,7 +65,7 @@ Building scalable data infrastructure that transforms raw data into strategic in
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722&color=E64A19" />
 </a>&nbsp;&nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/Data_Blog-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4&color=1976D2" />
+<img src="https://img.shields.io/badge/Finance_Blog-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4&color=1976D2" />
 </a>
 </p>
 
@@ -74,7 +74,7 @@ Building scalable data infrastructure that transforms raw data into strategic in
 <!-- Elite About Section -->
 <div align="center">
 
-## 🎯 **DATA ENGINEERING EXCELLENCE**
+## 🎯 **FINANCIAL ANALYSIS EXCELLENCE**
 
 </div>
 
@@ -82,28 +82,28 @@ Building scalable data infrastructure that transforms raw data into strategic in
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ **ENGINEERING MASTERY**
+### 🏗️ **FINANCIAL MASTERY**
 
 ```python
-class DataEngineer implements CloudArchitect {
-  private expertise: TechStack = {
-    pipelines: ["ETL/ELT", "Real-time Streaming", "Batch Processing"],
-    cloud: ["AWS", "GCP", "Azure", "Multi-cloud Architecture"],
-    big_data: ["Apache Spark", "Kafka", "Airflow", "Delta Lake"],
-    databases: ["Snowflake", "BigQuery", "Redshift", "MongoDB"],
-    ml_ops: ["MLflow", "Feature Stores", "Model Deployment"]
+class FinancialAnalyst implements FPASpecialist {
+  private expertise: FinancialStack = {
+    modeling: ["DCF Models", "LBO Models", "Driver-Based Models", "Valuation"],
+    analysis: ["Forecasting", "Variance Analysis", "P&L Analysis", "Budgeting"],
+    tools: ["Excel (Power Query, VBA)", "SQL", "Power BI", "Oracle ERP"],
+    domains: ["Healthcare Finance", "Investment Analysis", "Supply Chain"],
+    reporting: ["GAAP Reporting", "Financial Statements", "ROI Evaluation"]
   };
 
-  public processData(): Enterprise_Insights {
+  public analyzeFinancials(): Strategic_Insights {
     return this.expertise
-      .map((tech) => tech.applyTo(enterprise_data))
-      .reduce((pipeline, optimization) => pipeline.scale(optimization))
-      .optimize_performance()
-      .ensure_reliability();
+      .map((skill) => skill.applyTo(enterprise_data))
+      .reduce((model, optimization) => model.enhance(optimization))
+      .maximize_profitability()
+      .drive_decisions();
   }
 
   get currentFocus(): string {
-    return "Building enterprise-grade data infrastructure that scales with business growth";
+    return "Building comprehensive financial models that drive strategic capital allocation";
   }
 }
 ```
@@ -115,25 +115,26 @@ class DataEngineer implements CloudArchitect {
 
 ```yaml
 performance_matrix:
-  data_processing:
-    daily_volume: "5TB+"
-    pipeline_count: 12
-    uptime_improvement: "73%"
-    latency_reduction: "42% query performance boost"
+  financial_impact:
+    capital_decisions_influenced: "$27M+"
+    operational_savings_identified: "$5.2M"
+    forecast_accuracy_improvement: "11% YoY"
+    cash_flow_predictability: "10% enhanced"
   
-  cost_optimization:
-    storage_savings: "32% reduction"
-    infrastructure_efficiency: "35% runtime improvement"
-    manual_work_elimination: "20+ hours/month"
+  operational_excellence:
+    ebit_growth: "9% boost through analytics"
+    reporting_turnaround: "3 days reduction"
+    inventory_optimization: "14% excess stock reduced"
+    margin_analysis: "$3.8M controllable expenses identified"
   
   enterprise_scale:
     experience_years: 4
-    dashboards_supported: "100+"
-    patient_records_weekly: "2M+"
-    fraud_detection_daily: "1,200 suspicious transactions"
+    budget_frameworks: "Multi-scenario planning"
+    vendor_oversight: "12 suppliers managed"
+    compliance: "GAAP-compliant reporting"
 
-# Real-time processing: <30 seconds latency ⚡
-# Healthcare compliance: HIPAA automation ✅
+# Forecast precision: 11% improvement YoY ⚡
+# Healthcare finance: Medicare & Commercial Lines ✅
 ```
 
 </td>
@@ -143,33 +144,33 @@ performance_matrix:
 <!-- Elite Custom Analytics -->
 <div align="center">
 
-## 📊 **DATA ENGINEERING IMPACT METRICS**
+## 📊 **FINANCIAL ANALYSIS IMPACT METRICS**
 
 <table align="center" style="border: none;">
 <tr>
 <td align="center" style="border: none;">
 
-### 💾 **DATA PROCESSING**
+### 💰 **FINANCIAL IMPACT**
 
 <table>
-<tr><td>🚀</td><td><b>Daily Volume</b></td><td><img src="https://img.shields.io/badge/5TB+-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>⚡</td><td><b>Pipeline Reliability</b></td><td><img src="https://img.shields.io/badge/73%25_Improvement-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🔄</td><td><b>ETL Pipelines</b></td><td><img src="https://img.shields.io/badge/12_Active-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>📈</td><td><b>Query Performance</b></td><td><img src="https://img.shields.io/badge/42%25_Faster-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>💰</td><td><b>Cost Savings</b></td><td><img src="https://img.shields.io/badge/32%25_Storage-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🚀</td><td><b>Capital Allocation</b></td><td><img src="https://img.shields.io/badge/$27M+_Influenced-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⚡</td><td><b>Forecast Accuracy</b></td><td><img src="https://img.shields.io/badge/11%25_Improvement-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔄</td><td><b>EBIT Growth</b></td><td><img src="https://img.shields.io/badge/9%25_Boost-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📈</td><td><b>Cash Flow</b></td><td><img src="https://img.shields.io/badge/10%25_Predictability-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>💰</td><td><b>Cost Savings</b></td><td><img src="https://img.shields.io/badge/$5.2M_Identified-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
 </table>
 
 </td>
 <td align="center" style="border: none;">
 
-### 🛠️ **TECHNOLOGY EXPERTISE**
+### 🛠️ **EXPERTISE AREAS**
 
 <table>
-<tr><td>🐍</td><td><b>Python/SQL</b></td><td><img src="https://img.shields.io/badge/Expert-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>☁️</td><td><b>AWS/GCP</b></td><td><img src="https://img.shields.io/badge/Advanced-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>⚡</td><td><b>Apache Spark</b></td><td><img src="https://img.shields.io/badge/Expert-E25A1C?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>🌊</td><td><b>Kafka/Streaming</b></td><td><img src="https://img.shields.io/badge/Advanced-231F20?style=for-the-badge&labelColor=0D1117"/></td></tr>
-<tr><td>📊</td><td><b>Snowflake/BigQuery</b></td><td><img src="https://img.shields.io/badge/Expert-29B5E8?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>Financial Modeling</b></td><td><img src="https://img.shields.io/badge/Expert-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>💼</td><td><b>FP&A / Budgeting</b></td><td><img src="https://img.shields.io/badge/Advanced-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⚡</td><td><b>Excel / VBA</b></td><td><img src="https://img.shields.io/badge/Expert-E25A1C?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🏥</td><td><b>Healthcare Finance</b></td><td><img src="https://img.shields.io/badge/Advanced-231F20?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>Power BI / SQL</b></td><td><img src="https://img.shields.io/badge/Expert-29B5E8?style=for-the-badge&labelColor=0D1117"/></td></tr>
 </table>
 
 </td>
@@ -180,7 +181,7 @@ performance_matrix:
 
 **🏆 ACHIEVEMENTS:**
 <img src="https://img.shields.io/badge/🎓_Webster_University_Masters-success?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/🏥_Healthcare_Data_Expert-blue?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🏥_Healthcare_Finance_Expert-blue?style=for-the-badge&labelColor=2C3E50"/>
 <img src="https://img.shields.io/badge/🚀_4+_Years_Enterprise-purple?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
@@ -188,7 +189,7 @@ performance_matrix:
 <!-- Elite Experience Section -->
 <div align="center">
 
-## 💼 **ENTERPRISE DATA ENGINEERING TIMELINE**
+## 💼 **ENTERPRISE FINANCIAL ANALYSIS TIMELINE**
 
 </div>
 
@@ -196,64 +197,54 @@ performance_matrix:
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 **DATA ENGINEER**
+### 🏥 **FINANCIAL ANALYST**
 
-**`UnitedHealth Group • Saint Louis, MO • Jul 2024 – Present`**
+**`UnitedHealth Group • Saint Louis, MO • Aug 2024 – Present`**
 
-<img src="https://img.shields.io/badge/🏥_Healthcare_Data-FF6B6B?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🏥_Healthcare_Finance-FF6B6B?style=flat-square&labelColor=2C3E50"/>
 
-- **Enterprise ETL Architecture**: Built 12 AWS Glue & EMR pipelines processing 5TB+ daily
-- **Real-time Processing**: Integrated 7 IoT sources via Kafka + Spark Streaming
+- **Forecasting & Cost Modeling**: Built Excel models (Power Query, VBA) integrating claims, utilization, and OPEX data
+- **Forecast Precision**: **11% YoY improvement** across business units
 
-<img src="https://img.shields.io/badge/⚡_Performance_Engineering-4ECDC4?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/⚡_Variance_Analysis-4ECDC4?style=flat-square&labelColor=2C3E50"/>
 
-- **Delta Lake Optimization**: **42% query performance** boost on S3 architecture
-- **Cost Optimization**: **18% storage reduction** through format optimization
+- **P&L Analysis**: Identified **$3.8M in controllable expenses** through multi-entity variance analysis
+- **Financial Close**: Reduced reporting turnaround by **3 business days** with GAAP-compliant reconciliation
 
-<img src="https://img.shields.io/badge/🎯_Data_Quality-F39C12?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🎯_Valuation_&_ROI-F39C12?style=flat-square&labelColor=2C3E50"/>
 
-- **dbt + Great Expectations**: **28% reduction** in downstream failures
-- **HIPAA Compliance**: Automated reporting eliminating 20+ manual hours/month
+- **DCF & ROI Models**: Assessed provider-network and telehealth initiatives
+- **Capital Allocation**: Influenced **$17M in strategic decisions**
 
-<img src="https://img.shields.io/badge/🤖_ML_Integration-9B59B6?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🤖_Business_Intelligence-9B59B6?style=flat-square&labelColor=2C3E50"/>
 
-- **Predictive Models**: AWS Lambda + Feature Store for 2M+ patient records weekly
-- **Pipeline Optimization**: **35% runtime reduction** across critical reporting jobs
+- **Power BI Dashboards**: Connected SQL datasets for CFO-level visibility into MLR and profitability
+- **Predictive Modeling**: Rolling 12-month forecasts enhanced **EBIT and cash-flow projections by 10%**
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ **DATA ENGINEER**
+### 📦 **FINANCIAL ANALYST**
 
-**`Mphasis • India • Jan 2021 – Dec 2022`**
+**`Adons Softech • India • Mar 2019 – Jul 2022`**
 
-<img src="https://img.shields.io/badge/🏦_Banking_Solutions-E74C3C?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/📊_Supply_Chain_Finance-E74C3C?style=flat-square&labelColor=2C3E50"/>
 
-- **Cloud Migration**: 17 pipelines to Apache Airflow + Spark on GCP
-- **Enterprise DW**: BigQuery architecture supporting 100+ dashboards, 4TB data
-- **Infrastructure**: Jenkins CI/CD + Terraform reducing provisioning to 4 hours
+- **Cost Analysis**: Identified **$5.2M in controllable OPEX** across logistics and distribution
+- **Vendor Management**: Power BI dashboards tracking 12 suppliers' performance metrics
+- **Scenario Planning**: Designed budgeting frameworks for transportation and procurement
 
-<img src="https://img.shields.io/badge/🔒_Fraud_Detection-1ABC9C?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/💰_Cost_Optimization-1ABC9C?style=flat-square&labelColor=2C3E50"/>
 
-- **Real-time Pipeline**: Kafka + Flink with <30s latency
-- **Daily Processing**: 1,200+ suspicious transactions flagged automatically
-- **Cost Optimization**: **32% storage reduction** via partition pruning
+- **Inventory Models**: Reduced excess stock by **14%** using Excel (Power Query, Solver)
+- **GAAP Compliance**: Month-end close for COGS, inventory valuation, and freight accruals
+- **ROI Analysis**: **$22M strategic asset redeployment** through capital investment models
 
-<img src="https://img.shields.io/badge/📚_Best_Practices-E67E22?style=flat-square&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/📚_Analytics_Innovation-E67E22?style=flat-square&labelColor=2C3E50"/>
 
-- **dbt Models**: 25+ reusable transformations with lineage tracking
-- **Documentation**: 30+ datasets with interactive lineage maps
-- **Team Efficiency**: **40% faster** troubleshooting for analysts
-
-### 📊 **DATA ANALYST**
-
-**`Cybage Software • India • Jan 2020 – Dec 2020`**
-
-<img src="https://img.shields.io/badge/📈_Analytics_Foundation-8E44AD?style=flat-square&labelColor=2C3E50"/>
-
-- **Dashboard Automation**: 30+ Tableau dashboards saving 12 hours weekly
-- **Data Processing**: 10M+ rows monthly for logistics optimization
-- **A/B Testing**: **7.5% conversion rate** improvement analysis
+- **Cost-to-Serve**: Automated analytics using Python and SQL
+- **Unit Economics**: Improved pricing and replenishment, boosting **EBIT by 9%**
+- **Margin Analysis**: Quantified SKU-level and geographic profitability
 
 </td>
 </tr>
@@ -262,7 +253,7 @@ performance_matrix:
 <!-- Elite Project Showcase -->
 <div align="center">
 
-## 🔥 **SIGNATURE DATA SOLUTIONS PORTFOLIO**
+## 🔥 **SIGNATURE FINANCIAL SOLUTIONS PORTFOLIO**
 
 </div>
 
@@ -272,76 +263,76 @@ performance_matrix:
 
 <div align="center">
 
-### 🏥 **HEALTHCARE DATA LAKEHOUSE**
+### 🏥 **HEALTHCARE FINANCIAL FORECASTING**
 
-**Real-time Patient Analytics Platform**
+**Multi-Entity P&L & Budget Planning Platform**
 
-<img src="https://img.shields.io/badge/Scale-5TB+_Daily_Processing-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Impact-$17M_Capital_Decisions-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Cloud: AWS Glue • EMR • S3 • Lambda
-Streaming: Apache Kafka • Spark Streaming
-Storage: Delta Lake • Parquet Optimization
-ML Ops: Feature Store • MLflow
-Governance: dbt • Great Expectations
-Monitoring: CloudWatch • Data Quality Checks
+Analysis: Excel • Power Query • VBA • Macros
+Data: SQL • Oracle ERP • Claims Systems
+Visualization: Power BI • Dashboard Design
+Modeling: DCF • ROI • Scenario Planning
+Compliance: GAAP • Financial Reporting
+Forecasting: Driver-Based Models • Sensitivity Analysis
 ```
 
 **📊 MEASURABLE OUTCOMES**
 
-- ⚡ **42% faster** query performance achieved
-- 🏥 **7 IoT sources** integrated seamlessly
-- 💰 **18% storage** cost reduction delivered
-- 🔍 **28% fewer** downstream data failures
-- 📋 **HIPAA compliance** automation implemented
+- ⚡ **11% forecast accuracy** improvement YoY
+- 💰 **$3.8M controllable expenses** identified
+- 🏥 **Multi-entity P&L** variance analysis
+- 📋 **3 days faster** financial close process
+- 🔍 **10% enhanced** cash-flow predictability
 
 **🎯 INNOVATION HIGHLIGHTS**
 
-- Real-time patient vitals processing pipeline
-- Automated compliance reporting system
-- Predictive risk scoring at enterprise scale
+- Claims-integrated forecasting models
+- Medicare and commercial line analytics
+- CFO-level expense ratio dashboards
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
 
-### 🏦 **FINANCIAL FRAUD DETECTION**
+### 📦 **SUPPLY CHAIN COST ANALYTICS**
 
-**Real-time Banking Security Platform**
+**Logistics & Inventory Financial Optimization**
 
-<img src="https://img.shields.io/badge/Latency-Sub_30_Second_Detection-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/Savings-$5.2M_Cost_Reduction-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
 **🛠️ TECHNOLOGY STACK**
 
 ```yaml
-Streaming: Apache Kafka • Apache Flink
-Cloud: Google Cloud Platform • BigQuery
-Orchestration: Apache Airflow • dbt
-Storage: Parquet • Partitioned Architecture
-Infrastructure: Terraform • Jenkins CI/CD
-Monitoring: GCP Operations • Custom Alerts
+Analysis: Excel • Power Query • Solver • VBA
+Programming: Python • SQL • Data Mining
+Visualization: Power BI • Tableau
+ERP: Oracle • Cost Accounting Systems
+Modeling: ROI • Unit Economics • Benchmarking
+Automation: Cost-to-Serve Analytics
 ```
 
 **📊 MEASURABLE OUTCOMES**
 
-- 🔒 **1,200+ suspicious** transactions flagged daily
-- ⚡ **<30 second** detection latency maintained
-- 📊 **100+ dashboards** supported enterprise-wide
-- 💰 **32% storage** optimization achieved
-- 🚀 **73% pipeline** reliability improvement
+- 💰 **$5.2M OPEX** savings in logistics
+- 📊 **14% inventory** reduction achieved
+- ⚡ **9% EBIT** growth through analytics
+- 🚀 **$22M capital** redeployment guided
+- 📈 **12 vendors** performance tracked
 
 **🎯 INNOVATION HIGHLIGHTS**
 
-- Real-time fraud scoring algorithms
-- Enterprise data warehouse architecture
-- Automated anomaly detection system
+- Automated cost-to-serve frameworks
+- SKU-level profitability analysis
+- Freight and warehousing optimization
 
 </td>
 </tr>
@@ -350,7 +341,7 @@ Monitoring: GCP Operations • Custom Alerts
 <!-- Elite Tech Stack -->
 <div align="center">
 
-## 🛠️ **ELITE DATA ENGINEERING ARSENAL**
+## 🛠️ **ELITE FINANCIAL ANALYSIS ARSENAL**
 
 </div>
 
@@ -358,62 +349,64 @@ Monitoring: GCP Operations • Custom Alerts
 <tr>
 <td width="33%" valign="top">
 
-### **☁️ CLOUD & BIG DATA**
+### **📊 MODELING & ANALYSIS**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Financial_Modeling-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DCF_Models-00A4EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Valuation-FF6B6B?style=for-the-badge"/>
 </p>
 
 **SPECIALIZATIONS**
 
-- ☁️ **Multi-Cloud Architecture**
-- 🔄 **Real-time Data Streaming**
-- 📊 **Enterprise Data Warehousing**
-- ⚡ **Distributed Computing**
+- 💼 **Driver-Based Modeling**
+- 📈 **Scenario & Sensitivity Analysis**
+- 🎯 **LBO & Merger Models**
+- ⚡ **Monte Carlo Simulation**
 
 </td>
 <td width="33%" valign="top">
 
-### **🗄️ DATABASES & STORAGE**
+### **🗄️ DATA & REPORTING**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 **CAPABILITIES**
 
-- 🏗️ **Data Lake Architecture**
-- 📊 **OLAP & OLTP Optimization**
-- 🔄 **ETL/ELT Pipeline Design**
-- 📈 **Performance Tuning**
+- 📊 **Dashboard Development**
+- 🔄 **Data Visualization**
+- 📈 **Statistical Analysis**
+- 🎯 **GAAP Reporting**
 
 </td>
 <td width="33%" valign="top">
 
-### **🔧 DEV & ORCHESTRATION**
+### **💰 FINANCIAL EXPERTISE**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,scala,bash,git&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/FP&A-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Budgeting-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Forecasting-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Variance_Analysis-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/P&L_Analysis-F44336?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Investment_Analysis-00BCD4?style=for-the-badge"/>
 </p>
 
 **EXPERTISE**
 
-- 🔄 **CI/CD Pipeline Automation**
-- 📋 **Infrastructure as Code**
-- 🎯 **Data Quality & Testing**
-- 📊 **Monitoring & Observability**
+- 📋 **Financial Reporting & GAAP**
+- 🎯 **ROI & Capital Allocation**
+- 📊 **Healthcare Finance (MLR, Claims)**
+- 💼 **Supply Chain Economics**
 
 </td>
 </tr>
@@ -440,30 +433,28 @@ _Saint Louis, MO • Jan 2023 – Dec 2024_
 **📚 Advanced Coursework**
 
 - Advanced Statistical Analysis
-- Machine Learning & Predictive Modeling
-- Big Data Technologies & Cloud Computing
-- Data Visualization & Business Intelligence
+- Financial Analytics & Modeling
+- Business Intelligence & Forecasting
+- Data Visualization for Finance
 
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🌟 **BHARTI INSTITUTE**
+### 🏅 **PROFESSIONAL CERTIFICATIONS**
 
-**B.Tech Electrical & Electronics Engineering**  
-_India • Jul 2018 – May 2022_
+<img src="https://img.shields.io/badge/Certification-2196F3?style=for-the-badge&labelColor=2C3E50"/>
 
-<img src="https://img.shields.io/badge/Engineering_Degree-2196F3?style=for-the-badge&labelColor=2C3E50"/>
+**🎯 Core Credentials**
 
-**🏅 Professional Certifications**
+<img src="https://img.shields.io/badge/📊_Financial_Modeling_&_Forecasting-FFD700?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/💼_Excel_for_Corporate_Finance-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/📈_Financial_Statement_Analysis-4ECDC4?style=for-the-badge&labelColor=2C3E50"/>
 
-<img src="https://img.shields.io/badge/🤖_Generative_AI_Fundamentals-FFD700?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/Databricks_Certified-FF6B6B?style=for-the-badge&labelColor=2C3E50"/>
+**🌟 Specializations**
 
-**🎯 Core Competencies**
-
-- Systems Engineering & Architecture
-- Signal Processing & Data Analysis
-- Mathematical Modeling & Optimization
+- Financial Modeling & Forecasting (Oct 2019)
+- Excel for Corporate Finance Professionals (Oct 2023)
+- Corporate Financial Statement Analysis (Nov 2023)
 
 </td>
 </tr>
@@ -472,9 +463,9 @@ _India • Jul 2018 – May 2022_
 <!-- Activity Graph -->
 <div align="center">
 
-## 📈 **DATA ENGINEERING ACTIVITY MATRIX**
+## 📈 **FINANCIAL ANALYSIS ACTIVITY MATRIX**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy&custom_title=Data%20Engineering%20Contributions&bg_color=0D1117&color=4A90E2&line=5C7CFA&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikiranreddy&custom_title=Financial%20Analysis%20Contributions&bg_color=0D1117&color=4A90E2&line=5C7CFA&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
 </div>
 
@@ -483,7 +474,7 @@ _India • Jul 2018 – May 2022_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:5C7CFA&height=120&section=footer&animation=twinkling" />
 
-### 🤝 **LET'S BUILD SCALABLE DATA SOLUTIONS TOGETHER**
+### 🤝 **LET'S BUILD STRATEGIC FINANCIAL SOLUTIONS TOGETHER**
 
 <table align="center">
 <tr>
@@ -494,18 +485,18 @@ _India • Jul 2018 – May 2022_
 <img src="https://img.shields.io/github/followers/saikiranreddy?style=for-the-badge&color=0366d6&labelColor=24292e&label=Network" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Status-Available_for_Data_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
+<img src="https://img.shields.io/badge/Status-Available_for_Finance_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-> **"Data is the new oil, but insights are the refined fuel that powers business decisions."**  
-> _— Data Engineer • Cloud Architect • Big Data Specialist —_
+> **"Financial data tells a story, but strategic analysis writes the next chapter of business success."**  
+> _— Financial Analyst • FP&A Specialist • Valuation Expert —_
 
 <br/>
 
-**🌟 Ready to architect enterprise-scale data solutions? Let's connect and transform data into insights! 📊**
+**🌟 Ready to drive strategic financial decisions through advanced modeling and analytics? Let's connect! 📊**
 
 </div>
