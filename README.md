@@ -45,7 +45,7 @@ Building robust financial models that drive strategic business decisions 📊
 <img src="https://img.shields.io/badge/📱_+1_(614)_699--0768-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
 </td>
 <td align="center" width="300px">
-<img src="https://img.shields.io/badge/📧_saikiranr826@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
+<img src="https://img.shields.io/badge/📧_SAIKIRANR826@GMAIL.COM-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
 </td>
 <td align="center" width="200px">
 <img src="https://img.shields.io/badge/📍_Saint_Louis,_MO-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
