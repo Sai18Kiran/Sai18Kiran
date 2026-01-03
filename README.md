@@ -17,23 +17,23 @@
 <!-- Animated Code Terminal -->
 
 ```bash
-┌─[saikiran@financial-analytics]─[~/enterprise-systems/fp-and-a]
+┌─[saikiran@fp-analytics]─[~/enterprise-finance]
 └──╼ $ whoami
-Financial Analyst • FP&A Specialist • Valuation Expert | Webster University MDA
+Financial Analyst • FP&A Specialist • Valuation Expert | Webster University
 
-┌─[saikiran@financial-analytics]─[~/achievements]
+┌─[saikiran@fp-analytics]─[~/achievements]
 └──╼ $ ls -la
 total 5000
-drwxr-xr-x  4 years of enterprise financial analysis
-drwxr-xr-x  $27M+ capital allocation decisions influenced
-drwxr-xr-x  $5.2M operational savings identified
--rw-r--r--  11% forecast accuracy improvement
--rw-r--r--  10% enhanced cash-flow predictability
--rw-r--r--  9% EBIT growth through analytics
+drwxr-xr-x  4 years enterprise financial analysis
+drwxr-xr-x  $27M+ capital decisions influenced
+drwxr-xr-x  $5.2M operational savings
+-rw-r--r--  11% forecast accuracy boost
+-rw-r--r--  10% cash-flow predictability
+-rw-r--r--  9% EBIT growth via analytics
 
-┌─[saikiran@financial-analytics]─[~/current-mission]
+┌─[saikiran@fp-analytics]─[~/current-mission]
 └──╼ $ cat vision.txt
-Building robust financial models that transform data into strategic business decisions 📊
+Building robust financial models that drive strategic business decisions 📊
 ```
 
 <br/>
